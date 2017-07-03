@@ -1,7 +1,6 @@
 # CoreMLDemo
 a xcode demo shows how to integrate a .mlmodel converted from .caffemodel into your app
 # How to convert your caffemodel to mlmodel
-$ python
 
 >>> import coremltools
 >>> model = coremltools.converters.caffe.convert(('/Users/xxx/cnn-project/coreml-model/squeezeNet/squeezeNet_v1.1.caffemodel',
