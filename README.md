@@ -18,4 +18,4 @@ image_input_names='data',is_bgr=True,class_labels = './convert/imagent1000-label
 ```
 
 # More
-http://blog.csdn.net/may0324/article/details/74012336
+http://blog.csdn.net/may0324/article/details/74382514
